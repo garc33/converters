@@ -9,9 +9,6 @@
 	<name>Converters</name>
 	<url>https://github.com/MartyHub/converters</url>
 
-	<scm>
-		<developerConnection>scm:git:git@github.com:MartyHub/converters.git</developerConnection>
-	</scm>
 
 	<dependencies>
 		<dependency>
