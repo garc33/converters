@@ -94,7 +94,7 @@
 					<repositoryOwner>garc33</repositoryOwner>
 					<repositoryName>m2p2-repository</repositoryName>
 					<branch>refs/heads/mvn-repo</branch>
-					<path>maven/release</path>
+					<path>maven/releases</path>
 					<oauth2Token>${env.MY_SECRET_ENV}</oauth2Token>
 
 					<includes>
