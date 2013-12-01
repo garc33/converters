@@ -93,8 +93,8 @@
 
 					<repositoryOwner>garc33</repositoryOwner>
 					<repositoryName>m2p2-repository</repositoryName>
-					<branch>refs/heads/gh-pages</branch>
-					<path>maven/snapshots</path>
+					<branch>refs/heads/mvn-repo</branch>
+					<path>maven/release</path>
 					<oauth2Token>${env.MY_SECRET_ENV}</oauth2Token>
 
 					<includes>
