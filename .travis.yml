@@ -2,4 +2,4 @@ language: java
 script: mvn clean deploy
 env:
   global:
-    secure: gw6W+ARZDIh77t0IiNsEQIA/++NK1YybAI8zvdmtst71/n1HjYuVafwzTP4xB8volFm/ZfSLLzoaeOLxkO8C9Mi0OMma17drOjPq4/bi7cijEQyskLAP+yXp/n03jeHzJVrj7Yrmd01lTpIQmtVpasPy7fwoJfConP6ykS/3xmQ=
+    secure: CNPu3eHuKl82B7mMB3SOn/52U65F56ccD5Wa5RrUJa+a0Fnu46U3TzwKqPDNR71tMOq6bh1w6Ri6Kkri3ACnsDlhPZAxDyD6EQTCqfdvzWQciIu8T0RU9vIc2l56ei7BrY05aPiPK8z4f0l8KolhUJTB+efTQw2C8eEOzBgVNzw=
