@@ -14,13 +14,7 @@
 	</scm>
 
 	<dependencies>
-		<dependency>
-			<groupId>org.sweet</groupId>
-			<artifactId>date</artifactId>
-			<version>1.0.0-Final</version>
-			<type>jar</type>
-			<scope>compile</scope>
-		</dependency>
+		
 		<dependency>
 			<groupId>commons-lang</groupId>
 			<artifactId>commons-lang</artifactId>
